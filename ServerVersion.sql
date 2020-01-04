@@ -1,3 +1,3 @@
-select @@version  --ms sql server, get version info
+select @@version  --ms sql server, get version information
 go
 
