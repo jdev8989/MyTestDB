@@ -1,3 +1,3 @@
-select @@version
+select @@version  --ms sql server
 go
 
